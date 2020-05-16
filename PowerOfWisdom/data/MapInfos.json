@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"City","order":1,"parentId":0,"scrollX":650.4,"scrollY":390},
+{"id":1,"expanded":true,"name":"City","order":1,"parentId":0,"scrollX":650.4,"scrollY":390},
 {"id":2,"expanded":false,"name":"Field1","order":6,"parentId":0,"scrollX":650.4,"scrollY":390},
 {"id":3,"expanded":false,"name":"Dungeon1-1","order":7,"parentId":0,"scrollX":640.8,"scrollY":570},
 {"id":4,"expanded":false,"name":"Dungeon1-2","order":8,"parentId":0,"scrollX":799.1999999999999,"scrollY":956.4},
